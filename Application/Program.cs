@@ -51,6 +51,7 @@ namespace Application
 
         static void MostrarMenu()
         {
+            Console.Clear();
             Console.WriteLine("--- Gestión de Artículos ---");
             Console.WriteLine("1. Consultar todos los artículos");
             Console.WriteLine("2. Consultar artículos con existencia menor a 10");
@@ -88,6 +89,7 @@ namespace Application
 
         static void AgregarNuevoArticulo()
         {
+            Console.Clear();
             Console.WriteLine("\n--- Agregar Nuevo Artículo ---");
 
             Console.Write("Nombre: ");

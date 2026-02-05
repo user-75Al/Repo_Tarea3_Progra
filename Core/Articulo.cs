@@ -21,6 +21,7 @@ namespace Core
 
         public void MostrarInfo()
         {
+            Console.Clear();
             Console.WriteLine($"--- Información del Artículo ---");
             Console.WriteLine($"Nombre: {Nombre}");
             Console.WriteLine($"SKU: {SKU}");

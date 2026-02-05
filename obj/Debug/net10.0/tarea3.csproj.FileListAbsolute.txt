@@ -12,3 +12,4 @@ C:\Users\aless\Documents\Proyectos_Progra\tarea3\obj\Debug\net10.0\refint\tarea3
 C:\Users\aless\Documents\Proyectos_Progra\tarea3\obj\Debug\net10.0\tarea3.pdb
 C:\Users\aless\Documents\Proyectos_Progra\tarea3\obj\Debug\net10.0\tarea3.genruntimeconfig.cache
 C:\Users\aless\Documents\Proyectos_Progra\tarea3\obj\Debug\net10.0\ref\tarea3.dll
+C:\Users\aless\Documents\Proyectos_Progra\tarea3\obj\Debug\net10.0\tarea3.sourcelink.json
